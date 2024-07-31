@@ -1,0 +1,6 @@
+- 👋 Ola,sou @Giiholiveira
+- 👀 Estou interessada a desenvolver o javascript.
+- 🌱 atualmente estou aprendendo sibre Github.
+-💞️ Estou procurando colaborar com as aulas de tecnologia.
+- 😄 Ela,Elas
+- ⚡ Sou muito falante 
